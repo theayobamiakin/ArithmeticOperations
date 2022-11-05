@@ -1,0 +1,31 @@
+num1 = input("Enter a number: ")
+num2 = input("Enter a number: ")
+num3 = input("Enter a number: ")
+num4 = input("Enter a number: ")
+num5 = input("Enter a number: ")
+resultA = float(num1) + float(num2)
+resultB = float(num3) * float(num5)
+resultC = float(num2) / float(num4)
+resultD = float(num5) - float(num1)
+resultE = float(num5) + float(num1)
+resultF = float(num5) / float(num1)
+resultG = float(num5) * float(num1)
+resultH = float(num5) - float(num1)
+resultI = float(num5) + float(num1)
+resultJ = float(num5) / float(num1)
+resultT = resultA + resultB + resultC + resultD + resultE + resultF + resultG + resultH + resultI + resultJ
+print(resultA)
+print(resultB)
+print(resultC)
+print(resultD)
+print(resultE)
+print(resultF)
+print(resultG)
+print(resultH)
+print(resultI)
+print(resultJ)
+
+print(resultT)
+
+
+
