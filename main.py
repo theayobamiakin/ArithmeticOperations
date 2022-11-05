@@ -24,7 +24,6 @@ print(resultG)
 print(resultH)
 print(resultI)
 print(resultJ)
-
 print(resultT)
 
 
